@@ -1,10 +1,10 @@
+
 ## Welcome to the Online Workshop (Oct 6-7th, 2021)
 
 # [**Endowing Micro-swimmers with Artificial Intelligence**](swim-ai.github.io)
 
 ### Time: 6-9 a.m. (PDT), 2-5 p.m. (GMT), 3-6 p.m. (CET), 9-12 p.m. (SGT)
 
- 
 
 Description.
 
