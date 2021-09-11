@@ -31,9 +31,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Invited Speakers
 
 [Antonio Celani](https://www.ictp.it/phonebook/person?id=2439), The Abdus Salam International Centre for Theoretical Physics, Italy
+
 [Andreas Zöttl](https://scholar.google.co.uk/citations?user=CYRGC9AAAAAJ&hl=en), Universität Wien, Austria
 
+[Benno Liebchen](https://www.physik.tu-darmstadt.de/fbphysik/professoren/mitarbeiterdetails_de_en_professoren_67200.en.jsp), Technische Universität Darmstadt, Germany
+
+[Frank Cichos](https://home.uni-leipzig.de/~physik/sites/mona/), Universität Leipzig, Germany
+
+[Metin Sitti](https://www.is.mpg.de/~sitti), Max Planck Institute for Intelligent Systems, Germany
+
+[On Shun Pak](https://www.scu.edu/engineering/faculty/pak-on-shun/), Santa Clara University, USA
 
 ### Contact the organizers to participate
 
-Lailai Zhu, National University of Singapore and Holger Stark, Technical University of Berlin
+[Lailai Zhu](http://lailaiflow.com), National University of Singapore
+
+[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), Technische Universität Berlin
