@@ -1,8 +1,6 @@
 ## Welcome to the Online Workshop
 
-You can use the [editor on GitHub](https://github.com/swim-AI/swim-AI.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Endowing Micro-swimmers with Artificial Intelligence](swim-ai.github.io)
 
 ### Theme of the Workshop
 
@@ -42,8 +40,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [On Shun Pak](https://www.scu.edu/engineering/faculty/pak-on-shun/), Santa Clara University, USA
 
-### Contact the organizers to participate
+### Organizers
 
-[Lailai Zhu](http://lailaiflow.com), National University of Singapore
+[Lailai Zhu](http://lailaiflow.com), [National University of Singapore (NUS)](https://www.nus.edu.sg)
 
-[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), Technische Universität Berlin
+[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/), [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
+
+### Acknowledgement
+This workshop is supported by the BUA-NUS Strategic Research Partnership.
