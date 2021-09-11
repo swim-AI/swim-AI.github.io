@@ -1,5 +1,5 @@
 
-## Welcome to the Online Workshop (Oct 6-7th, 2021)
+
 
 # [**Endowing Micro-swimmers with Artificial Intelligence**](swim-ai.github.io)
 
