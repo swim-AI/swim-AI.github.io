@@ -7,19 +7,13 @@ Description.
 
 ## Schedule
 ### Day 1 (Oct 6th)
+- Openning <br>
+- Invited talk 1: <br>
+- Contributed talk 1: 
 ### Day 2 (Oct 7th)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Invited talk 1: <br>
+- Contributed talk 1: 
+- Summary
 
 ### Invited Speakers
 
