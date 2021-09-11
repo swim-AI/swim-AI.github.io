@@ -1,17 +1,16 @@
-## Welcome to the Online Workshop on Oct 6-7th, 2021
+## Welcome to the Online Workshop (Oct 6-7th, 2021)
 
 # [**Endowing Micro-swimmers with Artificial Intelligence**](swim-ai.github.io)
 
-### Theme of the Workshop
+### Time: 6-9 a.m. (PDT), 2-5 p.m. (GMT), 3-6 p.m. (CET), 9-12 p.m. (SGT)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
+Description.
 
-# Header 1
-## Header 2
-### Header 3
+## Schedule
+### Day 1 (Oct 6th)
+### Day 2 (Oct 7th)
 
 - Bulleted
 - List
@@ -22,7 +21,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -38,7 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Organizers
 
 [Lailai Zhu](http://lailaiflow.com), [National University of Singapore (NUS)](https://www.nus.edu.sg)<br>
-[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/), [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
+[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/), as a partner of [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
 
 ### Acknowledgement
 We thank the support from the BUA-NUS Strategic Research Partnership.
