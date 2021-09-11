@@ -10,6 +10,7 @@ Description.
 - Openning <br>
 - Invited talk 1: <br>
 - Contributed talk 1: 
+
 ### Day 2 (Oct 7th)
 - Invited talk 1: <br>
 - Contributed talk 1: 
