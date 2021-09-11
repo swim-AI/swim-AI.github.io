@@ -40,4 +40,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [Lailai Zhu](http://lailaiflow.com), [National University of Singapore (NUS)](https://www.nus.edu.sg)<br>
 [Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/), [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
 
-We acknowledge the support from the BUA-NUS Strategic Research Partnership.
+### Acknowledgement
+We thank the support from the BUA-NUS Strategic Research Partnership.
