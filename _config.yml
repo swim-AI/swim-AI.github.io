@@ -1,7 +1,6 @@
 title: Endowing Micro-swimmers with Artificial Intelligence
-#  description: >- # this means to ignore newlines until "baseurl:"
-#  Problem sets, labs, and other materials for the Fall, 2019, edition of
-#  CSci 1301 at the University of Minnesota Morris.
+description: >- # this means to ignore newlines until "baseurl:"
+#  Welcome to the Online Worshop
 
 # Build settings
 markdown: kramdown
