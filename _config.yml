@@ -4,7 +4,7 @@ description: Welcome to the Online Workshop
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 # theme: jekyll-swiss
 theme_color: white
 plugins:
