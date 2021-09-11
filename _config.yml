@@ -4,7 +4,8 @@ description: Welcome to the Online Workshop
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: thedevslot/WhatATheme
 # theme: jekyll-swiss
 theme_color: white
 plugins:
