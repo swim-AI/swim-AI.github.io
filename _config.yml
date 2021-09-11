@@ -1,9 +1,1 @@
 theme: jekyll-theme-tactile
-plugins:
-  - jekyll-titles-from-headings
-defaults:
-  - scope:
-      path: some-path
-      layout: some_layout
-    values:
-      strip_title: true
