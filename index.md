@@ -41,7 +41,7 @@ Description.
 ### Organizers
 
 [Lailai Zhu](http://lailaiflow.com), [National University of Singapore (NUS)](https://www.nus.edu.sg)<br>
-[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/), a partner of [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
+[Holger Stark](https://www.itp.tu-berlin.de/stark/ag_stark/members/prof_dr_holger_stark/), [Technische Universität Berlin](https://www.tu.berlin/en/) as a partner of [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/index.html)
 
 ### Acknowledgement
 We thank the support from the BUA-NUS Strategic Research Partnership.
