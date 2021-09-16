@@ -17,16 +17,16 @@ Description.
 
 ### Day 1 (Oct 6th)
 - Openning: 0:00-0:05, Lailai Zhu, <br>
-- Invited talk 1: 0:05-0:35, Antonio Celani, 'TBD', <br>
-- Contributed talk 1: 0:35-0:55, Santiago Muiños Landin, 'multiagent TBD', <br>
+- Invited talk 1: 0:05-0:35, Frank Cichos, 'TBD', <br>
+- Contributed talk 1: 0:35-0:55, Amirreza Aghakhani, 'TBD', <br>
 - Invited talk 2: 0:55-1:25, Andreas Zöttl, 'Optimizing decision making of microswimmers using genetic algorithms', <br>
 - Break, 1:25-1:35, <br>
 - Contributed talk 2: 1:35-1:55, Holger Stark, 'Learned navigation of smart active particle', <br>
 - Invited talk 3: 1:55-2:35, Benno Liebchen, 'Optimal microswimmer navigation', <br>
-- Contributed talk 3: 2:35-2:55, Amirreza Aghakhani, 'TBD', <br>
+- Contributed talk 3: 2:35-2:55, Santiago Muiños Landin, 'multiagent TBD', <br>
 
 ### Day 2 (Oct 7th)
-- Invited talk 1: 0:00-0:30, Frank Cichos, 'TBD', <br>
+- Invited talk 1: 0:00-0:30, Antonio Celani, 'TBD', <br>
 - Contributed talk 1: 0:30-0:50, Mahdi Nasiri, 'Reinforcement learning of optimal active particle navigation', <br>
 - Invited talk 2: 0:50-1:20, Metti Sitti, 'TBD', <br>
 - Break: 1:20-1:30, <br>
