@@ -22,8 +22,8 @@ Description.
 - Invited talk 2: 0:55-1:25, Andreas Zöttl, 'Optimizing decision making of microswimmers using genetic algorithms', <br>
 - Break, 1:25-1:35, <br>
 - Contributed talk 2: 1:35-1:55, Holger Stark, 'Learned navigation of smart active particle', <br>
-- Invited talk 3: 1:55-2:35, Benno Liebchen, 'Optimal microswimmer navigation', <br>
-- Contributed talk 3: 2:35-2:55, Santiago Muiños Landin, 'multiagent TBD', <br>
+- Invited talk 3: 1:55-2:25, Benno Liebchen, 'Optimal microswimmer navigation', <br>
+- Contributed talk 3: 2:25-2:45, Santiago Muiños Landin, 'multiagent TBD', <br>
 
 ### Day 2 (Oct 7th)
 - Invited talk 1: 0:00-0:30, Antonio Celani, 'TBD', <br>
