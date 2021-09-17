@@ -26,7 +26,7 @@ Description.
 - Contributed talk 3: 2:25-2:45, Santiago Muiños Landin, 'multiagent TBD', <br>
 
 ### Day 2 (Oct 7th)
-- Invited talk 1: 0:00-0:30, Antonio Celani, 'TBD', <br>
+- Invited talk 1: 0:00-0:30, Antonio Celani, 'Reinforcement learning for pursuit and evasion of microswimmers at low Reynolds number', <br>
 - Contributed talk 1: 0:30-0:50, Mahdi Nasiri, 'Reinforcement learning of optimal active particle navigation', <br>
 - Invited talk 2: 0:50-1:20, Metti Sitti, 'TBD', <br>
 - Break: 1:20-1:30, <br>
