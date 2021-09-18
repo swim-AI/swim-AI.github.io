@@ -3,7 +3,11 @@
 ### Time: 6-9 a.m. (PDT), 2-5 p.m. (GMT), 3-6 p.m. (CET), 9-12 p.m. (SGT)
 
 
-Description.
+Despite many preclinical studies, clinical adoptions of medical microrobots have not been available. To conduct any microrobot-assisted clinical operations, delivering a microrobot to a targeted site of action needs to be considered in the first place. This requires robust steering to guide them towards confined, hard-to-reach, and sensitive inner body sites. Overcoming biological barriers further reinforce this requirement; for example, penetration into gel-like, fibrous extracellular matrix calls for producing strong thrust to drive the microrobots; navigation in branched blood vessels entails guiding them through complex networks delicately.
+
+Development of micro-robotic control schemes is an emerging area, with their in vivo applications in its infancy. Accompanying the surge in applying artificial intelligence (AI) to robotic control, robotics facilitated by AI is reforming our society, from Tesla’s fully self-driving system to Boston Dynamics’s multi-tasking robotic dog. Its demonstrated prowess inspires us to develop AI-powered motion control for real-time, robust, and intelligent manipulation of swimming microrobots. 
+
+
 
 ### Invited Speakers
 
