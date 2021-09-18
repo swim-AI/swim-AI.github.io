@@ -24,6 +24,8 @@ Description.
 - Contributed talk 2: 1:35-1:55, Holger Stark, 'Learned navigation of smart active particle' <br>
 - Invited talk 3: 1:55-2:25, Benno Liebchen, 'Optimal microswimmer navigation' <br>
 - Contributed talk 3: 2:25-2:45, Santiago Muiños Landin, 'multiagent TBD' <br>
+- ![Alt text](workshop_schedule.jpg?raw=true "Title")
+
 
 ### Day 2 (Oct 7th)
 - Invited talk 1: 0:00-0:30, Antonio Celani, 'Reinforcement learning for pursuit and evasion of microswimmers at low Reynolds number' <br>
