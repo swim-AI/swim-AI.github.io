@@ -3,7 +3,7 @@
 ### Time: 6-9 a.m. (PDT), 2-5 p.m. (GMT), 3-6 p.m. (CET), 9-12 p.m. (SGT)
 
 
-Description.
+Accompanying the surge in applying artificial intelligence (AI) to robotic control, robotics facilitated by AI is reforming our society, from Tesla’s fully self-driving system to Boston Dynamics’s multi-tasking robotic dog. Its demonstrated prowess inspires us to develop AI-powered motion control and path planning for real-time, robust, and intelligent manipulation of swimming microrobots. This informal workshop will focus on the recent progress made in this emerging interdisciplinary field─designing micro-swimmers based on artificial intelligence, connecting researchers with expertise in soft matter physics, robotics, machine learning, fluid mechanics and applied mathematics.
 
 
 ![Alt text](poster_web.jpg?raw=true "Title")
