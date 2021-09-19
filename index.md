@@ -8,6 +8,7 @@ Accompanying the surge in applying artificial intelligence (AI) to robotic contr
 
 <img src="poster_web.jpg" width=400 align=center>
 
+
 ### Invited Speakers
 
 [Antonio Celani](https://www.ictp.it/phonebook/person?id=2439), The Abdus Salam International Centre for Theoretical Physics, Italy<br>
