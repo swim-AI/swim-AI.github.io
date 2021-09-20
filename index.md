@@ -19,7 +19,7 @@ Accompanying the surge in applying artificial intelligence (AI) to robotic contr
 [On Shun Pak](https://www.scu.edu/engineering/faculty/pak-on-shun/), Santa Clara University, USA
 ### Schedule
 
-![Alt text](workshop_schedule.jpg?raw=true "Title")
+![Alt text](workshop_schedule_20.jpg?raw=true "Title")
 
 
 
